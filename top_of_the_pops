@@ -1,0 +1,14 @@
+3.times do
+  play 60
+sleep 2
+play 61
+sleep 3
+play 62
+sleep 4
+play 63
+sleep 5
+enday 62
+sleep 4
+play 63
+sleep 5
+end
